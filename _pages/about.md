@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a staff scientist of the Theoretical Division at Los Alamos National Laboratory (LANL), working on the development of theoretical models and numerical algorithms for understanding the electronic structure and dynamics of complex molecular systems, condensed matter, and open quantum systems. My current research interests include:
+I am currently serving as a staff scientist in the Theoretical Division at Los Alamos National Laboratory (LANL), where my work primarily focuses on the development of quantum computing methods tailored for quantum chemistry applications. My research is deeply rooted in the modeling of structural materials, specifically for their application under extreme conditions such as those found in fusion reactors, shock deformation, and environments with high radiation exposure. My current research interests include:
 
 1. Quantum Computation
 2. Light-Matter interactions: plasmon and polariton Chemistry
