@@ -30,9 +30,11 @@ Work Experience
 * May 2019 - May 2021: Postdoctoral Fellow at University of Connecticut, USA
   * Investigating the links between microstructure and the atomic scale behavior of metals under dynamic loading conditions  
 
-Package Development
-===================
-* [VirTex](https://mrcavam-virtex.readthedocs.io/en/latest/index.html): A Python package for virtual texture analysis; orientation relationship, misorientation, Schmid factor, twin characterization, (methodology and code)
+Development
+===========
+* [aNANt:](https://anant.mrc.iisc.ac.in/) During my Ph.D., I co-developed “aNANt”, which is the first such computational materials database from India; it currently holds around 23,000 MXenes along with their optimized structures and electronic properties. 
+* [VirTex:](https://mrcavam-virtex.readthedocs.io/en/latest/index.html) A Python package for virtual texture analysis from atomistic microstructures; orientation relationship, misorientation, Schmid factor, twin characterization, etc.
+* [JARVIS-Leaderboard:](https://github.com/usnistgov/jarvis_leaderboard/graphs/contributors) An official contributor to the NIST project for bench-marking performances of various methods for materials science applications
 
 
 Awards
