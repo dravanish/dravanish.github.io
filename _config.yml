@@ -85,7 +85,7 @@ author:
   bio              : "Staff Scientist @ Los Alamos National Laboratory"
   location         : "Los Alamos, NM, USA"
   employer         : #"Los Alamos National Laboratory"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en"
   email            : #""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
