@@ -38,7 +38,7 @@ Awards
 3. Travel award from Group on Energy Research and Applications (GERA) to attend American Physical Society March Meeting, USA, Feb 2019
 4. Travel award to attend MATERIALS 4.0 workshop at Technical University of Dresden, Dresden, Germany, Sep 2018
 5. Travel award from Group on Energy Research and Applications (GERA) to attend American Physical Society March Meeting, USA, Feb 2018
-6. TravelawardtoattendadvanceworkshopatInternationalCentreforTheoreticalPhysics, Trieste, Italy, Jan 2017
+6. Travel award to attend advance workshop at International Centre for Theoretical Physics, Trieste, Italy, Jan 2017
 7. Kawazoe Prize, Best Poster award in ACCMS-TM 2016 at SRM University Chennai, India, Sep 2016
 8. Qualified joint CSIR-UGC National Eligibility Test (NET) 2013 (December) with all India rank of 58 in Physical Science.
 9. Qualified Graduate Aptitude Test in Engineering (GATE) 2014 with all India rank of 36 in Physical Science.
