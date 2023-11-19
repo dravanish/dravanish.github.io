@@ -84,7 +84,7 @@ author:
   avatar           : "avanish.jpeg"
   bio              : "Staff Scientist @ Los Alamos National Lab"
   location         : "Los Alamos, NM, USA"
-  employer         : "Los Alamos National Laboratory"
+  employer         : #"Los Alamos National Laboratory"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en"
   email            : #""
