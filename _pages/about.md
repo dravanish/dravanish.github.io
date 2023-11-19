@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am a staff scientist in the Physics and Chemistry Group (T1) at the Theoretical Division, Los Alamos National Laboratory (LANL), where my work primarily focuses on the development of quantum computing methods tailored for quantum chemistry applications. My research is deeply rooted in the modeling of structural materials, specifically for their application under extreme conditions such as those found in fusion reactors, shock deformation, and environments with high radiation exposure. </p>
+I am a staff scientist in the Physics and Chemistry of Materials Group (T-1) at the Theoretical Division, Los Alamos National Laboratory (LANL), where my work primarily focuses on the development of quantum computing methods tailored for quantum chemistry applications. My research is deeply rooted in the modeling of structural materials, specifically for their application under extreme conditions such as those found in fusion reactors, shock deformation, and environments with high radiation exposure. </p>
 
 <p align="justify">
 One of my key areas of expertise lies in the exploration and development of functional materials (2D materials). These materials are not just limited to energy applications but also extend to electronics, where they can play a pivotal role in advancing technology. The scope of my work in this domain ranges from conceptualization and computational design to practical applications, ensuring that the materials are versatile and capable of meeting diverse technological needs. </p>
