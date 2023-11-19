@@ -33,20 +33,19 @@ Work experience
 
 Awards
 ======
-1. One of the 30 postdocs within the Lab selected for “Science in 3” 2023 at Los Alamos National Laboratory (LANL), June 2023
-2. Fellowship from Los Alamos National Laboratory (LANL), USA, to carry out research as Director’s postdoctoral fellow at LANL, USA, Aug 2022
-3. Travel award from Department of Science and Technology, India, to attend American Physical Society March Meeting, USA, Feb 2019
-4. Travel award from Group on Energy Research and Applications (GERA) to attend Amer- ican Physical Society March Meeting, USA, Feb 2019
-5. Travel award to attend MATERIALS 4.0 workshop at Technical University of Dresden, Dresden, Germany, Sep 2018
-6. Travel award from Group on Energy Research and Applications (GERA) to attend American Physical Society March Meeting, USA, Feb 2018
-7. TravelawardtoattendadvanceworkshopatInternationalCentreforTheoreticalPhysics, Trieste, Italy, Jan 2017
-8. Kawazoe Prize, Best Poster award in ACCMS-TM 2016 at SRM University Chennai, India, Sep 2016
-9. Qualified joint CSIR-UGC National Eligibility Test (NET) 2013 (December) with all India rank of 58 in Physical Science.
-10. Qualified Graduate Aptitude Test in Engineering (GATE) 2014 with all India rank of 36 in Physical Science.
+1. Fellowship from Los Alamos National Laboratory (LANL), USA, to carry out research as Director’s postdoctoral fellow at LANL, USA, Aug 2022
+2. Travel award from Department of Science and Technology, India, to attend American Physical Society March Meeting, USA, Feb 2019
+3. Travel award from Group on Energy Research and Applications (GERA) to attend American Physical Society March Meeting, USA, Feb 2019
+4. Travel award to attend MATERIALS 4.0 workshop at Technical University of Dresden, Dresden, Germany, Sep 2018
+5. Travel award from Group on Energy Research and Applications (GERA) to attend American Physical Society March Meeting, USA, Feb 2018
+6. TravelawardtoattendadvanceworkshopatInternationalCentreforTheoreticalPhysics, Trieste, Italy, Jan 2017
+7. Kawazoe Prize, Best Poster award in ACCMS-TM 2016 at SRM University Chennai, India, Sep 2016
+8. Qualified joint CSIR-UGC National Eligibility Test (NET) 2013 (December) with all India rank of 58 in Physical Science.
+9. Qualified Graduate Aptitude Test in Engineering (GATE) 2014 with all India rank of 36 in Physical Science.
 
 Reviewer of Journals
 ====================
-Physical Review Letters, Physical Review B, Physical Review Applied, Physical Review Materials, Journal of Physical Chemistry Letters, npj Computational Materials, Scientific Report, Scientific Data, Advanced Functional Materials, International journal of plas- ticity, Journal of Applied Physics, Journal of Materials Science, Sensors, Modelling and Simulation in Materials Science and Engineering, Computational Materials Science, and Materials
+* Physical Review Letters, Physical Review B, Physical Review Applied, Physical Review Materials, Journal of Physical Chemistry Letters, npj Computational Materials, Scientific Report, Scientific Data, Advanced Functional Materials, International journal of plas- ticity, Journal of Applied Physics, Journal of Materials Science, Sensors, Modelling and Simulation in Materials Science and Engineering, Computational Materials Science, and Materials
 
 <!--
 Skills
