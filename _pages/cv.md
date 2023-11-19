@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Math, and Chemistry, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur, India, 2011
+* M.S. in Physics, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur, India, 2013
+  * Specialization: Quantum Mechanics and Astrophysics
+* Ph.D in Materials Science, Materials Research Centre, Indian Institute of Science, Bangalore, India, 2019
+  * **Dissertation:** Exploration of exfoliation, functionalization and proper- ties of MXenes via first-principles and machine learning
 
 Work experience
 ======
