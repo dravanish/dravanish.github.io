@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently serving as a staff scientist in the Theoretical Division at Los Alamos National Laboratory (LANL), where my work primarily focuses on the development of quantum computing methods tailored for quantum chemistry applications. My research is deeply rooted in the modeling of structural materials, specifically for their application under extreme conditions such as those found in fusion reactors, shock deformation, and environments with high radiation exposure. My current research interests include:
+I am currently serving as a staff scientist in the Theoretical Division at Los Alamos National Laboratory (LANL), where my work primarily focuses on the development of quantum computing methods tailored for quantum chemistry applications. My research is deeply rooted in the modeling of structural materials, specifically for their application under extreme conditions such as those found in fusion reactors, shock deformation, and environments with high radiation exposure.
+
+One of my key areas of expertise lies in the exploration and development of functional materials (2D materials). These materials are not just limited to energy applications but also extend to electronics, where they can play a pivotal role in advancing technology. The scope of my work in this domain ranges from conceptualization and computational design to practical applications, ensuring that the materials are versatile and capable of meeting diverse technological needs.
+
+A significant portion of my research is also dedicated to leveraging machine learning algorithms to expedite our understanding and development of these materials. By utilizing advanced machine learning techniques, I am able to uncover and interpret complex, hidden correlations within vast datasets. This approach not only accelerates the research process but also opens new pathways for innovation in material science. In my role at LANL, I also collaborate closely with a team of distinguished scientists and researchers. 
+
+
+<!--
+
+My current research interests include:
 
 1. Quantum Computation
 2. Light-Matter interactions: plasmon and polariton Chemistry
@@ -16,7 +25,6 @@ I am currently serving as a staff scientist in the Theoretical Division at Los A
 4. Quantum transport and quantum dissipation
 5. Molecular quantum information science
 
-<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
