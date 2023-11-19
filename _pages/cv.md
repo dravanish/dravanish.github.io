@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,15 +19,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2023 - Present: Scientist 2 at Los Alamos National Laboratory, USA
+* Oct 2022 - Nov 2023: Director’s Postdoc Fellow at Los Alamos National Laboratory, USA
+  * Interface characterization using virtual diffraction and physics informed machine learning
+* Jan 2022 - Oct 2022: Postdoctoral Research Associate at Los Alamos National Laboratory, USA
+  * Microstructure characterization using atomistic simulations and machine learning   
+* May 2021 - Jan 2022: Research Scientist at University of Connecticut, USA
+  * Investigating the links between microstructure and the atomic scale behavior of metals under dynamic loading conditions 
+* May 2019 - May 2021: Postdoctoral Fellow at University of Connecticut, USA
+  * Investigating the links between microstructure and the atomic scale behavior of metals under dynamic loading conditions  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
