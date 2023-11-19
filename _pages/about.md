@@ -14,7 +14,7 @@ I am currently serving as a staff scientist in the Theoretical Division at Los A
 One of my key areas of expertise lies in the exploration and development of functional materials (2D materials). These materials are not just limited to energy applications but also extend to electronics, where they can play a pivotal role in advancing technology. The scope of my work in this domain ranges from conceptualization and computational design to practical applications, ensuring that the materials are versatile and capable of meeting diverse technological needs. </p>
 
 <p align="justify">
-A significant portion of my research is also dedicated to leveraging machine learning algorithms to expedite our understanding and development of these materials. By utilizing advanced machine learning techniques, I am able to uncover and interpret complex, hidden correlations within vast datasets. This approach not only accelerates the research process but also opens new pathways for innovation in material science. In my role at LANL, I also collaborate closely with a team of distinguished scientists and researchers. \\
+A significant portion of my research is also dedicated to leveraging machine learning algorithms to expedite our understanding and development of these materials. By utilizing advanced machine learning techniques, I am able to uncover and interpret complex, hidden correlations within vast datasets. This approach not only accelerates the research process but also opens new pathways for innovation in material science. In my role at LANL, I also collaborate closely with a team of distinguished scientists and researchers.
 </p>
 
 <!--
