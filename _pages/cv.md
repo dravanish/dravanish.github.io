@@ -32,9 +32,9 @@ Work Experience
 
 Development
 ===========
-* [aNANt:](https://anant.mrc.iisc.ac.in/) During my Ph.D., I co-developed “aNANt”, which is the first such computational materials database from India; it currently holds around 23,000 MXenes along with their optimized structures and electronic properties. 
-* [VirTex:](https://mrcavam-virtex.readthedocs.io/en/latest/index.html) A Python package for virtual texture analysis from atomistic microstructures; orientation relationship, misorientation, Schmid factor, twin characterization, etc.
-* [JARVIS-Leaderboard:](https://github.com/usnistgov/jarvis_leaderboard/graphs/contributors) An official contributor to the NIST project for bench-marking performances of various methods for materials science applications
+1. [aNANt:](https://anant.mrc.iisc.ac.in/) During my Ph.D., I co-developed “aNANt”, the first computational materials database from India; it currently holds around 23,000 MXenes along with their optimized structures and electronic properties. 
+2. [VirTex:](https://mrcavam-virtex.readthedocs.io/en/latest/index.html) A Python package for virtual texture analysis from atomistic microstructures; orientation relationship, misorientation, Schmid factor, twin characterization, etc.
+3. [JARVIS-Leaderboard:](https://github.com/usnistgov/jarvis_leaderboard/graphs/contributors) An official contributor to the NIST project for bench-marking performances of various methods for materials science applications
 
 
 Awards
@@ -51,7 +51,7 @@ Awards
 
 Reviewer of Journals
 ====================
-* Physical Review Letters, Physical Review B, Physical Review Applied, Physical Review Materials, Journal of Physical Chemistry Letters, npj Computational Materials, Scientific Report, Scientific Data, Advanced Functional Materials, International journal of plas- ticity, Journal of Applied Physics, Journal of Materials Science, Sensors, Modelling and Simulation in Materials Science and Engineering, Computational Materials Science, and Materials
+* Physical Review Letters, Physical Review B, Physical Review Applied, Physical Review Materials, Journal of Physical Chemistry Letters, npj Computational Materials, Scientific Report, Scientific Data, Advanced Functional Materials, International Journal of Plasticity, Journal of Applied Physics, Journal of Materials Science, Sensors, Modelling and Simulation in Materials Science and Engineering, Computational Materials Science, and Materials
 
 <!--
 Skills
