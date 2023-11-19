@@ -17,7 +17,7 @@ Education
 * Ph.D in Materials Science, Materials Research Centre, Indian Institute of Science, Bangalore, India, 2019
   * **Dissertation:** Exploration of exfoliation, functionalization and properties of MXenes via first-principles and machine learning
 
-Work experience
+Work Experience
 ======
 * Nov 2023 - Present: Scientist 2 at Los Alamos National Laboratory, USA
   * Materials Modeling, Materials Informatics, Quantum Computing, and Virtual Characterization, 
@@ -29,6 +29,10 @@ Work experience
   * Investigating the links between microstructure and the atomic scale behavior of metals under dynamic loading conditions 
 * May 2019 - May 2021: Postdoctoral Fellow at University of Connecticut, USA
   * Investigating the links between microstructure and the atomic scale behavior of metals under dynamic loading conditions  
+
+Package Development
+===================
+* [VirTex](https://mrcavam-virtex.readthedocs.io/en/latest/index.html): A Python package for virtual texture analysis; orientation relationship, misorientation, Schmid factor, twin characterization, (methodology and code)
 
 
 Awards
