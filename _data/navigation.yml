@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: <a href="https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en" target="_blank">
-    #url: "https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en"
+    #url: <a href="https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en" target="_blank">
+    url: "https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en"
 
   #- title: "Talks"
     #url: /talks/    
