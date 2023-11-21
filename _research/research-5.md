@@ -1,5 +1,5 @@
 ---
-title: "Virtual Characterization"
+title: "Virtual Characterization:"
 excerpt: "Develop and utilize tools (texture and diffraction analyses) for atomistic data."
 collection: research
 ---
