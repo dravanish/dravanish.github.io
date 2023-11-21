@@ -1,6 +1,6 @@
 ---
-title: "Quantun Computing"
-excerpt: "Quantun Computing: Accessing quantum advnatage for quantum chemistry problems"
+title: "Quantum Computing"
+excerpt: "Accessing quantum advantage for quantum chemistry problems."
 collection: research
 ---
 
