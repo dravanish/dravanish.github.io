@@ -1,5 +1,5 @@
 ---
-title: "Quantum Computing"
+title: "Quantum Computing:"
 excerpt: "Accessing quantum advantage for quantum chemistry problems."
 collection: research
 ---
