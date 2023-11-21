@@ -1,5 +1,5 @@
 ---
-title: "Computational Modeling of Functional Materials: "
+title: "Modeling of Functional Materials: "
 excerpt: "Application of bulk and low-dimensional materials for energy to electronic applications."
 collection: research
 ---
