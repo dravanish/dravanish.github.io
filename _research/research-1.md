@@ -1,6 +1,6 @@
 ---
 title: "Structural materials"
-excerpt: "Modeling of structural materials: Application under extreme conditions, fusion reactors, shock deformation, and radiation damage. <br/><img src='/images/500x300.png'>"
+excerpt: "Modeling of structural materials: Application under extreme conditions, fusion reactors, shock deformation, and radiation damage."
 collection: research
 ---
 
