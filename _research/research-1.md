@@ -1,6 +1,6 @@
 ---
 title: "Quantum computing for quantum chemistry"
-excerpt: "Development of quantum algorithms for quantum chemistry, including ground state, excited state, and nonadiabatic (both mixed quantum-classical and quantum) dynamics<br/><img src='/images/500x300.png'>"
+excerpt: "Development of quantum algorithms for quantum chemistry, including ground state, excited state, and nonadiabatic."
 collection: research
 ---
 
