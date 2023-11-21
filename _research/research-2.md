@@ -1,6 +1,6 @@
 ---
 title: "Functional materials"
-excerpt: "Modeling of functional materials: Application of bulk and low-dimensional materials for energy to electronic applications. <br/><img src='/images/500x300.png'>"
+excerpt: "Modeling of functional materials: Application of bulk and low-dimensional materials for energy to electronic applications"
 collection: research
 ---
 
