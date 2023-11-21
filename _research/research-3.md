@@ -1,6 +1,6 @@
 ---
-title: "Materials Informatics"
-excerpt: "Materials Informatics: Leveraging machine learning algorithms to expedite  understanding and development of materials"
+title: "Materials Informatics:"
+excerpt: "Leveraging machine learning algorithms to expedite understanding and development of materials."
 collection: research
 ---
 
