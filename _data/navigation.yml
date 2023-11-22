@@ -10,16 +10,17 @@ main:
     
   # - title: "About Me"
   #   url: /portfolio/
+  
+  - title: "CV"
+    url: /cv/
 
+    
   - title: "Publications"
     #url: <a href="https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en" target="_blank">
     url: "https://scholar.google.com/citations?user=_P6zuNAAAAAJ&hl=en"
     
   #- title: "Blog Posts"
     #url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   #- title: "Guide"
     #url: /markdown/
