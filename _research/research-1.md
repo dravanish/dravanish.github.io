@@ -1,9 +1,9 @@
 ---
 title: "Modeling of Structural Materials: "
-excerpt: "Application under extreme conditions, such as fusion reactors, shock deformation, and radiation damage. <br/><img src='/images/resarch-1.jpg'>"
+excerpt: "Application under extreme conditions, such as fusion reactors, shock deformation, and radiation damage.<br/><img src='/images/resarch-1.png'  class='center'>"
 collection: research
 ---
-
+<br/><img src='/images/Untitled-1.png'  class='center'>
 Quantum computers were proposed to be a game changer for chemistry and materials science modeling, but the tools are yet to be developed. Hybrid quantum-classical algorithms are the current state-of-the-art in the noisy intermediate-state quantum (NISQ) era. Existing advances such as variational quantum eigensolver (VQE) solvers need quality initial states (ansatzes) and a minimal number of qubits for each
 the problem at hand (currently limited to very small molecules only).
 Subsequently, casting the original problems in terms of novel quantum
