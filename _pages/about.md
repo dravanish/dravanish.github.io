@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <br/><img src='/images/front_page.png' class='center'>
 
 <p align="justify">
