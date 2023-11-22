@@ -1,6 +1,6 @@
 ---
 title: "Quantum Computing:"
-excerpt: "Accessing quantum advantage for quantum chemistry problems.<br/><img src='/images/research-4.png' class='center'>"
+excerpt: "Assessing quantum advantage for quantum chemistry applications.<br/><img src='/images/research-4.png' class='center'>"
 collection: research
 ---
 
