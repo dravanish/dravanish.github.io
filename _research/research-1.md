@@ -1,6 +1,6 @@
 ---
 title: "Modeling of Structural Materials: "
-excerpt: "Application under extreme conditions, such as fusion reactors, shock deformation, and radiation damage."
+excerpt: "Application under extreme conditions, such as fusion reactors, shock deformation, and radiation damage. <br/><img src='/images/resarch-1.jpg'>"
 collection: research
 ---
 
